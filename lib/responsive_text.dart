@@ -1,0 +1,1 @@
+export 'src/responsive_text_widget.dart';
